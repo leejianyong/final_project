@@ -163,6 +163,22 @@
               </div>
             <!-- End Card -->
           </div>
+          <div class="col-lg-12">
+            <!-- Card -->
+              <div class="card card-body mb-3 mb-lg-5 border border-primary border-bottom-0 border-right-0">
+                <div class="row featurette">
+                  <div class="col-md-7">
+                      <h2 class="featurette-heading" style="font-size: 35px;">Find the career of your dreams <br><span class="text-muted">It'll blow your mind.</span></h2>
+                      <p class="lead" style="font-size: 20px;">We help Interns and Fresh Graduates to find their dream job</p>
+                  </div>
+                  <div class="col-md-5" >
+                      <img class="featurette-image img-fluid mx-auto" src="image/second_index_1.jpg" alt="Generic placeholder image">
+                  </div>
+                </div>
+              </div>
+            <!-- End Card -->
+          </div>
+
 
           <div class="col-lg-12">
             <!-- Card -->
