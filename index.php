@@ -303,6 +303,24 @@
                 </li>
               </ul>
             </div>
+            <div class="col-lg-4 col-md-8 mb-6 mb-md-0">
+              <u><h5 class="text-uppercase text-white" style="font-size: 20px;">Job Seekers</h5></u>
+
+              <ul class="list-unstyled mb-0">
+                <li>
+                  <a href="#!" class="text-white">Jobs by Specialization</a>
+                </li>
+                <li>
+                  <a href="#!" class="text-white">Jobs by Company Name</a>
+                </li>
+                <li>
+                  <a href="#!" class="text-white">Safe Job Search Guide</a>
+                </li>
+                <li>
+                  <a href="#!" class="text-white">Career Resources</a>
+                </li>
+              </ul>
+            </div>
             <!-- End Grid column-->
 
             <!-- Grid column-->
