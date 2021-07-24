@@ -10,11 +10,11 @@
               <h1 class="page-header-title">Dashboard</h1>
             </div>
 
-            <div class="col-sm-auto">
+            <!-- <div class="col-sm-auto">
               <a class="btn btn-primary" href="javascript:;" data-toggle="modal" data-target="#inviteUserModal">
                 <i class="tio-user-add mr-1"></i> Invite users
               </a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!-- End Page Header -->
@@ -278,145 +278,9 @@
         <!-- End Stats -->
 
         <div class="row gx-2 gx-lg-3">
-          <div class="col-lg-5 mb-3 mb-lg-5">
-            <!-- Card -->
-            <div class="card h-100">
-              <!-- Header -->
-              <div class="card-header">
-                <h5 class="card-header-title">Import data into Front Dashboard</h5>
+          
 
-                <!-- Unfold -->
-                <div class="hs-unfold">
-                  <a class="js-hs-unfold-invoker btn btn-icon btn-sm btn-ghost-secondary rounded-circle" href="javascript:;"
-                     data-hs-unfold-options='{
-                       "target": "#reportsOverviewDropdown2",
-                       "type": "css-animation"
-                     }'>
-                    <i class="tio-more-vertical"></i>
-                  </a>
-
-                  <div id="reportsOverviewDropdown2" class="hs-unfold-content dropdown-unfold dropdown-menu dropdown-menu-right mt-1">
-                    <span class="dropdown-header">Settings</span>
-
-                    <a class="dropdown-item" href="#">
-                      <i class="tio-share dropdown-item-icon"></i> Share chart
-                    </a>
-                    <a class="dropdown-item" href="#">
-                      <i class="tio-download-to dropdown-item-icon"></i> Download
-                    </a>
-                    <a class="dropdown-item" href="#">
-                      <i class="tio-alt dropdown-item-icon"></i> Connect other apps
-                    </a>
-
-                    <div class="dropdown-divider"></div>
-
-                    <span class="dropdown-header">Feedback</span>
-
-                    <a class="dropdown-item" href="#">
-                      <i class="tio-chat-outlined dropdown-item-icon"></i> Report
-                    </a>
-                  </div>
-                </div>
-                <!-- End Unfold -->
-              </div>
-              <!-- End Header -->
-
-              <!-- Body -->
-              <div class="card-body">
-                <p>See and talk to your users and leads immediately by importing your data into the Front Dashboard platform.</p>
-
-                <ul class="list-group list-group-flush list-group-no-gutters">
-                  <li class="list-group-item py-3">
-                    <h5 class="modal-title">Import users from:</h5>
-                  </li>
-
-                  <!-- List Group Item -->
-                  <li class="list-group-item py-3">
-                    <div class="media">
-                      <div class="mt-1 mr-3">
-                        <img class="avatar avatar-xs avatar-4by3" src="./assets/svg/brands/capsule.svg" alt="Image Description">
-                      </div>
-                      <div class="media-body">
-                        <div class="row align-items-center">
-                          <div class="col">
-                            <h5 class="mb-0">Capsule</h5>
-                            <span class="d-block font-size-sm">Users</span>
-                          </div>
-
-                          <div class="col-auto">
-                            <a class="btn btn-sm btn-primary" href="#" title="Launch importer" target="_blank">
-                              Launch <span class="d-none d-sm-inline-block">importer</span>
-                              <i class="tio-open-in-new ml-1"></i>
-                            </a>
-                          </div>
-                        </div>
-                        <!-- End Row -->
-                      </div>
-                    </div>
-                  </li>
-                  <!-- End List Group Item -->
-
-                  <!-- List Group Item -->
-                  <li class="list-group-item py-3">
-                    <div class="media">
-                      <div class="mt-1 mr-3">
-                        <img class="avatar avatar-xs avatar-4by3" src="./assets/svg/brands/mailchimp.svg" alt="Image Description">
-                      </div>
-                      <div class="media-body">
-                        <div class="row align-items-center">
-                          <div class="col">
-                            <h5 class="mb-0">Mailchimp</h5>
-                            <span class="d-block font-size-sm">Users</span>
-                          </div>
-
-                          <div class="col-auto">
-                            <a class="btn btn-sm btn-primary" href="#" title="Launch importer" target="_blank">
-                              Launch <span class="d-none d-sm-inline-block">importer</span>
-                              <i class="tio-open-in-new ml-1"></i>
-                            </a>
-                          </div>
-                        </div>
-                        <!-- End Row -->
-                      </div>
-                    </div>
-                  </li>
-                  <!-- End List Group Item -->
-
-                  <!-- List Group Item -->
-                  <li class="list-group-item py-3">
-                    <div class="media">
-                      <div class="mt-1 mr-3">
-                        <img class="avatar avatar-xs avatar-4by3" src="./assets/svg/brands/google-webdev.svg" alt="Image Description">
-                      </div>
-                      <div class="media-body">
-                        <div class="row align-items-center">
-                          <div class="col">
-                            <h5 class="mb-0">Webdev</h5>
-                            <span class="d-block font-size-sm">Users</span>
-                          </div>
-
-                          <div class="col-auto">
-                            <a class="btn btn-sm btn-primary" href="#" title="Launch importer" target="_blank">
-                              Launch <span class="d-none d-sm-inline-block">importer</span>
-                              <i class="tio-open-in-new ml-1"></i>
-                            </a>
-                          </div>
-                        </div>
-                        <!-- End Row -->
-                      </div>
-                    </div>
-                  </li>
-                  <!-- End List Group Item -->
-
-                  <li class="list-group-item"><small>Or you can <a href="#">sync data to Front Dashboard</a> to ensure your data is always up-to-date.</small></li>
-                </ul>
-              </div>
-              <!-- End Body -->
-            </div>
-            <!-- End Card -->
-          </div>
-
-          <div class="col-lg-7 mb-3 mb-lg-5">
+          <div class="col-lg-12 mb-6 mb-lg-10">
             <!-- Card -->
             <div class="card h-100">
               <!-- Header -->
@@ -1376,7 +1240,6 @@
       <!-- End Content -->
 
       <!-- Footer -->
-      
         <div class="footer">
           <div class="row justify-content-between align-items-center">
             <div class="col">
@@ -1417,9 +1280,6 @@
             </div>
           </div>
         </div>
-      
-
-      
       <!-- End Footer -->
     </main>
     <!-- ========== END MAIN CONTENT ========== -->
