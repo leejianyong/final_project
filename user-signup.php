@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Title -->
-    <title>Cover Sign Up | Front - Admin &amp; Dashboard Template</title>
+    <title>Company Request Signup</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="./favicon.ico">
@@ -99,7 +99,7 @@
               <form class="js-validate">
                 <div class="text-center mb-5">
                   <h1 class="display-4">Create your account</h1>
-                  <p>Already have an account? <a href="authentication-signin-cover.html">Sign in here</a></p>
+                  <p>Already have an account? <a href="user-signin.php">Sign in here</a></p>
                 </div>
 
 
